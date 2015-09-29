@@ -59,7 +59,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ### Miscs
 
 - [LINQ IQueryable Toolkit][IQueryableToolkit] - Build your own LINQ provider written by the mind behind LINQ to SQL
-- [re-linq][relinq] - Create full-featured LINQ providers. ReLinq is used by Entity Framework 7 and NHibernate
+- [re-linq][relinq] - Create full-featured LINQ providers. ReLinq is used by EF 7 and NHibernate
 - [L2ST4][L2ST4] – T4 based code generation to replace the default code generated from the DBML file with LINQ to SQL
 
 [IQueryableToolkit]: http://iqtoolkit.codeplex.com
@@ -78,7 +78,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Samples
 
-- [101 LINQ Samples][101Samples] - Sample covering the entire range of LINQ functionality and demonstrating LINQ with SQL, DataSets, and XML
+- [101 LINQ Samples][101Samples] - Sample covering all LINQ functionality and demonstrating LINQ with SQL, DataSets, and XML
 - [LINQ - Sample Queries][SampleQueries] - This project contains about 101 samples using LINQ
 
 [101Samples]: https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b
