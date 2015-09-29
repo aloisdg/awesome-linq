@@ -50,6 +50,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Mono.Linq.Expressions](https://github.com/jbevain/mono.linq.expressions) - Complement for System.Linq.Expressions (by @jbevain)
 - [LINQ Extensions Library](https://linqlib.codeplex.com) - Statistical analysis, sequence generation and manipulation, pattern detection and more
 - [LINQKit](https://github.com/scottksmith95/LINQKit) - Extensions for LINQ to SQL and Entity Framework power users (by @scottksmith95)
+- [i4o (index for objects) - Indexed LINQ](http://i4o.codeplex.com) - Extends LINQ to allow you to put indexes on your objects.
 
 ### Databases
 
@@ -58,11 +59,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ### Miscs
 
 - [LINQ IQueryable Toolkit][IQueryableToolkit] - Build your own LINQ provider written by the mind behind LINQ to SQL
-- [i4o - Indexed LINQ][i4o] - i4o (index for objects) is  a class library that extends LINQ to allow you to put indexes on your objects. The speed of LINQ operations are often over one thousand times faster than without i4o.
-- [L2ST4][L2ST4] – T4 based code generation to replace the default code generated from the DBML file with LINQ to SQL.
+- [re-linq][relinq] - Create full-featured LINQ providers. ReLinq is used by Entity Framework 7 and NHibernate
+- [L2ST4][L2ST4] – T4 based code generation to replace the default code generated from the DBML file with LINQ to SQL
 
 [IQueryableToolkit]: http://iqtoolkit.codeplex.com
-[i4o]: http://i4o.codeplex.com
+[relinq]: http://relinq.codeplex.com
 [L2ST4]: http://l2st4.codeplex.com
 
 ## Tools
