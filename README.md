@@ -92,13 +92,19 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [CLinq](https://linqextensions.codeplex.com/) - LINQ support for the C++/CLI language
 - [Linq](https://github.com/pfultz2/Linq) - LINQ for list comprehension in C++ (by @pfultz2)
 - [linq.js](https://github.com/mihaifm/linq) - LINQ for JavaScript library packaged for node.js (by @mihaifm)
+- [LINQ in JavaScript](https://github.com/aaronpowell/linq-in-javascript) - LINQ in JavaScript use ES6 iterators for proper lazy evaluation (by @aaronpowell)
 - [node-linq](https://github.com/contra/node-linq) - LINQ for node (by @contra)
+- [Pinq](https://github.com/TimeToogo/Pinq) - PHP Integrated Query, a real LINQ library for PHP (by @TimeToogo)
 - [linq](https://github.com/fusonic/linq) - PHP implementation of LINQ 2 Objects (by @fusonic)
+- [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP (by @Athari)
 - [LinqToObjectiveC](https://github.com/ColinEberhardt/LinqToObjectiveC) - Brings a Linq-style fluent query API to Objective-C (by @ColinEberhardt)
 - [Linq](https://github.com/RyujiSamejima/Linq) - Objective-C implementation of LINQ (by @RyujiSamejima)
 - [linq](https://github.com/zx48/linq) - LINQ support for Go (by @zx48)
 - [go-linq](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go (by @ahmetalpbalkan)
+- [Jinq](https://github.com/my2iu/Jinq) - LINQ-style queries for Java 8 (by @my2iu)
 - [linq4j](https://github.com/julianhyde/linq4j) - A port of LINQ (Language-Integrated Query) to Java (by @julianhyde)
+- [SINQ](https://github.com/slazyk/SINQ) - LINQ for Swift - Swift Integrated Query (by @slazyk)
+- [hxLINQ](https://github.com/andyli/hxLINQ) - An implementation of LINQ in Haxe (by @andyli)
 
 ---
 
