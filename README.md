@@ -14,10 +14,6 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-linq/blob/master/CONTRIBUTING.md) first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
-## Table Of Contents
-
-- [Converter](#converter)
-
 ## Libraries
 
 ### Queries
