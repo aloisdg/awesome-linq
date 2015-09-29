@@ -92,7 +92,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [CLinq](https://linqextensions.codeplex.com/) - LINQ support for the C++/CLI language
 - [Linq](https://github.com/pfultz2/Linq) - LINQ for list comprehension in C++ (by @pfultz2)
 - [linq.js](https://github.com/mihaifm/linq) - LINQ for JavaScript library packaged for node.js (by @mihaifm)
-- [LINQ in JavaScript](https://github.com/aaronpowell/linq-in-javascript) - LINQ in JavaScript use ES6 iterators for proper lazy evaluation (by @aaronpowell)
+- [LINQ in JavaScript](https://github.com/aaronpowell/linq-in-javascript) - Use ES6 iterators for proper lazy evaluation (by @aaronpowell)
 - [node-linq](https://github.com/contra/node-linq) - LINQ for node (by @contra)
 - [Pinq](https://github.com/TimeToogo/Pinq) - PHP Integrated Query, a real LINQ library for PHP (by @TimeToogo)
 - [linq](https://github.com/fusonic/linq) - PHP implementation of LINQ 2 Objects (by @fusonic)
