@@ -43,6 +43,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ### Extensions
 
 - [MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects  (by @morelinq)
+- [ExtraLINQ](https://github.com/mariusschulz/ExtraLINQ) - Extension methods for various .NET sequence types (by @mariusschulz)
 - [Mono.Linq.Expressions](https://github.com/jbevain/mono.linq.expressions) - Complement for System.Linq.Expressions (by @jbevain)
 - [LINQ Extensions Library](https://linqlib.codeplex.com) - Statistical analysis, sequence generation and manipulation, pattern detection and more
 - [LINQKit](https://github.com/scottksmith95/LINQKit) - Extensions for LINQ to SQL and Entity Framework power users (by @scottksmith95)
