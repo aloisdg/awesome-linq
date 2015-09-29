@@ -89,14 +89,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Why LINQ beats SQL](https://www.linqpad.net/WhyLINQBeatsSQL.aspx)
 - [SQL queries in LINQ](http://www.codeducky.org/sql-queries-in-linq/)
 
-## Helps
-
-- [LINQ to Objects](http://stackoverflow.com/tags/linq-to-objects/info) - For querying collections of POCO (Plain old CLR objects)
-- [LINQ to SQL](http://stackoverflow.com/tags/linq-to-sql/info) - For querying SQL databases
-- [LINQ to Entities](http://stackoverflow.com/tags/linq-to-entities/info) - For querying SQL databases through [Entity Framework](http://en.wikipedia.org/wiki/ADO.NET_Entity_Framework)
-- [LINQ to XML](http://stackoverflow.com/tags/linq-to-xml/info) - For querying XML documents
-- [PLINQ](http://stackoverflow.com/tags/plinq/info) - for querying in parallel.
-
 ---
 
 You may want to look to this .NET awsome lists : [awesome-dotnet](https://github.com/quozd/awesome-dotnet) by @Quozd and [awesome-dotnet](https://github.com/Valien/awesome-dotnet) by @Valien
