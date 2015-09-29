@@ -1,6 +1,6 @@
 <!--
-  Title: Awesome Linq
-  Description: A curated list of amazingly awesome Linq resources.
+  Title: Awesome LINQ
+  Description: A curated list of amazingly awesome LINQ resources.
   Author: aloisdg
   -->
 
@@ -8,7 +8,7 @@
 
 ## Introduction
 
-A curated collection of awesome Linq libraries, tools, and more. The goal is to build a categorized community-driven collection of very well-known resources.
+A curated collection of awesome LINQ libraries, tools, and more. The goal is to build a categorized community-driven collection of very well-known resources.
 
 Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-regex](https://github.com/aloisdg/awesome-regex) and the whole `awesome-*` trend on GitHub.
 
@@ -30,7 +30,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [LINQ to JSON][Json] - Part of the lib Newtonsoft.Json.NET (by @JamesNK)
 - [LINQ to Twitter][Twitter] - LINQ Provider for the Twitter API (by @JoeMayo)
 - [LINQ to SharePoint][SP] - Query SharePoint lists using familiar LINQ syntax
-- [LINQ to Bing][Bing] - Linq provider for Bing search API engine.
+- [LINQ to Bing][Bing] - LINQ provider for Bing search API engine.
 - [Glinq][Google] - LINQ to Google (\b)
 
 [Google]: http://www.codeplex.com/glinq
@@ -65,7 +65,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Tools
 
 - [LINQPad][LINQPad] - An awesome tool to test and prototype LINQ queries. 
-- [Linq to Entity query visualizer][Visu] - View Native SQL of Linq to entities ObjectQuery in Visual Studio 
+- [Linq to Entity query visualizer][Visu] - View Native SQL of LINQ to entities ObjectQuery in Visual Studio 
 - [Linqer][Linqer] - Convert SQL query to LINQ
 
 [LINQPad]: http://www.linqpad.net
