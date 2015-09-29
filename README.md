@@ -91,8 +91,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ---
 
-You may want to look to this .NET awsome lists : [awesome-dotnet](https://github.com/quozd/awesome-dotnet) by @Quozd and [awesome-dotnet](https://github.com/Valien/awesome-dotnet) by @Valien
-
-also [.NET libraries that-make your life easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier) by @tallesl deserves a mention.
+You may want to look to [awesome-dotnet](https://github.com/quozd/awesome-dotnet) by @Quozd and [awesome-dotnet](https://github.com/Valien/awesome-dotnet) by @Valien. Also [.NET libraries that make your life easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier) by @tallesl deserves a mention.
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list, the [awesome](https://github.com/sindresorhus/awesome) list or if you want [more lists](https://github.com/jnv/lists).
