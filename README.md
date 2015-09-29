@@ -59,7 +59,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ### Miscs
 
 - [LINQ IQueryable Toolkit][IQueryableToolkit] - Build your own LINQ provider written by the mind behind LINQ to SQL
-- [re-linq][relinq] - Create full-featured LINQ providers. ReLinq is used by EF 7 and NHibernate
+- [ReLinq][relinq] - Create full-featured LINQ providers. ReLinq is used by EF 7 and NHibernate
 - [L2ST4][L2ST4] – T4 based code generation to replace the default code generated from the DBML file with LINQ to SQL
 
 [IQueryableToolkit]: http://iqtoolkit.codeplex.com
@@ -69,7 +69,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Tools
 
 - [LINQPad][LINQPad] - An awesome tool to test and prototype LINQ queries. 
-- [Linq to Entity query visualizer][Visu] - View Native SQL of LINQ to entities ObjectQuery in Visual Studio 
+- [LINQ to Entity query visualizer][Visu] - View Native SQL of LINQ to entities ObjectQuery in Visual Studio 
 - [Linqer][Linqer] - Convert SQL query to LINQ
 
 [LINQPad]: http://www.linqpad.net
