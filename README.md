@@ -89,6 +89,20 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Why LINQ beats SQL](https://www.linqpad.net/WhyLINQBeatsSQL.aspx)
 - [SQL queries in LINQ](http://www.codeducky.org/sql-queries-in-linq/)
 
+
+## Implementations
+
+- [CLinq](https://linqextensions.codeplex.com/) - LINQ support for the C++/CLI language
+- [Linq](https://github.com/pfultz2/Linq) - LINQ for list comprehension in C++ (by @pfultz2)
+- [linq.js](https://github.com/mihaifm/linq) - LINQ for JavaScript library packaged for node.js (by @mihaifm)
+- [node-linq](https://github.com/contra/node-linq) - LINQ for node (by @contra)
+- [linq](https://github.com/fusonic/linq) - PHP implementation of LINQ 2 Objects (by @fusonic)
+- [LinqToObjectiveC](https://github.com/ColinEberhardt/LinqToObjectiveC) - Brings a Linq-style fluent query API to Objective-C (by @ColinEberhardt)
+- [Linq](https://github.com/RyujiSamejima/Linq) - Objective-C implementation of LINQ (by @RyujiSamejima)
+- [linq](https://github.com/zx48/linq) - LINQ support for Go (by @zx48)
+- [go-linq](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go (by @ahmetalpbalkan)
+- [linq4j](https://github.com/julianhyde/linq4j) - A port of LINQ (Language-Integrated Query) to Java (by @julianhyde)
+
 ---
 
 You may want to look to [awesome-dotnet](https://github.com/quozd/awesome-dotnet) by @Quozd and [awesome-dotnet](https://github.com/Valien/awesome-dotnet) by @Valien. Also [.NET libraries that make your life easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier) by @tallesl deserves a mention.
