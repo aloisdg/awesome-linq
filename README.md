@@ -27,7 +27,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [LINQ to Twitter][Twitter] - LINQ Provider for the Twitter API (by @JoeMayo)
 - [LINQ to SharePoint][SP] - Query SharePoint lists using familiar LINQ syntax
 - [LINQ to Bing][Bing] - LINQ provider for Bing search API engine.
-- [Glinq][Google] - LINQ to Google (\b)
+- [Glinq][Google] - LINQ to Google
 
 [Google]: http://www.codeplex.com/glinq
 [Bing]: https://linqtobing.codeplex.com
