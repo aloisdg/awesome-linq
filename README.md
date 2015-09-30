@@ -29,10 +29,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [LINQ to Bing](https://linqtobing.codeplex.com) - LINQ provider for Bing search API engine.
 - [Glinq](http://www.codeplex.com/glinq) - LINQ to Google
 
-[SP]: 
-[Linq2Rest]: 
-[linq2db]: 
-
 ### Extensions
 
 - [MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects  (by @morelinq)
