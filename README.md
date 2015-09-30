@@ -26,8 +26,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [LINQ to JSON](http://james.newtonking.com/json/help/html/LINQtoJSON.htm) - Part of the lib Newtonsoft.Json.NET (by @JamesNK)
 - [LINQ to Twitter](https://github.com/JoeMayo/LinqToTwitter) - LINQ Provider for the Twitter API (by @JoeMayo)
 - [LINQ to SharePoint](http://linqtosharepoint.codeplex.com) - Query SharePoint lists using familiar LINQ syntax
-- [LINQ to Bing](https://linqtobing.codeplex.com) - LINQ provider for Bing search API engine.
-- [Glinq](http://www.codeplex.com/glinq) - LINQ to Google
+- [LINQ to Bing](https://linqtobing.codeplex.com) - LINQ provider for Bing search API engine
+- [LINQ to Google](http://www.codeplex.com/glinq) - Query Google's Data Sources using a strongly typed syntax
 
 ### Extensions
 
@@ -36,7 +36,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Mono.Linq.Expressions](https://github.com/jbevain/mono.linq.expressions) - Complement for System.Linq.Expressions (by @jbevain)
 - [LINQ Extensions Library](https://linqlib.codeplex.com) - Statistical analysis, sequence generation and manipulation, pattern detection and more
 - [LINQKit](https://github.com/scottksmith95/LINQKit) - Extensions for LINQ to SQL and Entity Framework power users (by @scottksmith95)
-- [i4o (index for objects) - Indexed LINQ](http://i4o.codeplex.com) - Extends LINQ to allow you to put indexes on your objects.
+- [i4o (index for objects) - Indexed LINQ](http://i4o.codeplex.com) - Extends LINQ to allow you to put indexes on your objects
 
 ### Databases
 
