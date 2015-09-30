@@ -18,27 +18,20 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ### Queries
 
-- [LINQ2DB][linq2db] - Linq to database provider (by @linq2db)
-- [LINQ2REST][Linq2Rest] - Parses OData system query parameters to create a LINQ query
-- [LINQ to XSD][XSD] -  LINQ to XSD enhances the existing LINQ to XML technology
-- [LINQ to CSV][CSV] - Popular, easy to use library to read and write CSV files (by @mperdeck)
-- [LINQ to Excel][Excel] - Retrieve data from spreadsheets by using LINQ (by @paulyoder)
-- [LINQ to JSON][Json] - Part of the lib Newtonsoft.Json.NET (by @JamesNK)
-- [LINQ to Twitter][Twitter] - LINQ Provider for the Twitter API (by @JoeMayo)
-- [LINQ to SharePoint][SP] - Query SharePoint lists using familiar LINQ syntax
-- [LINQ to Bing][Bing] - LINQ provider for Bing search API engine.
-- [Glinq][Google] - LINQ to Google
+- [LINQ2DB](https://github.com/linq2db/linq2db) - Linq to database provider (by @linq2db)
+- [LINQ2REST](https://linq2rest.codeplex.com) - Parses OData system query parameters to create a LINQ query
+- [LINQ to XSD](http://linqtoxsd.codeplex.com) - LINQ to XSD enhances the existing LINQ to XML technology
+- [LINQ to CSV](https://github.com/mperdeck/LINQtoCSV) - Popular, easy to use library to read and write CSV files (by @mperdeck)
+- [LINQ to Excel](https://github.com/paulyoder/LinqToExcel) - Retrieve data from spreadsheets by using LINQ (by @paulyoder)
+- [LINQ to JSON](http://james.newtonking.com/json/help/html/LINQtoJSON.htm) - Part of the lib Newtonsoft.Json.NET (by @JamesNK)
+- [LINQ to Twitter](https://github.com/JoeMayo/LinqToTwitter) - LINQ Provider for the Twitter API (by @JoeMayo)
+- [LINQ to SharePoint](http://linqtosharepoint.codeplex.com) - Query SharePoint lists using familiar LINQ syntax
+- [LINQ to Bing](https://linqtobing.codeplex.com) - LINQ provider for Bing search API engine.
+- [Glinq](http://www.codeplex.com/glinq) - LINQ to Google
 
-[Google]: http://www.codeplex.com/glinq
-[Bing]: https://linqtobing.codeplex.com
-[XSD]: http://linqtoxsd.codeplex.com
-[Json]: http://james.newtonking.com/json/help/html/LINQtoJSON.htm
-[Excel]: https://github.com/paulyoder/LinqToExcel
-[CSV]: https://github.com/mperdeck/LINQtoCSV
-[Twitter]: https://github.com/JoeMayo/LinqToTwitter
-[SP]: http://linqtosharepoint.codeplex.com
-[Linq2Rest]: https://linq2rest.codeplex.com
-[linq2db]: https://github.com/linq2db/linq2db
+[SP]: 
+[Linq2Rest]: 
+[linq2db]: 
 
 ### Extensions
 
@@ -55,37 +48,25 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ### Miscs
 
-- [LINQ IQueryable Toolkit][IQueryableToolkit] - Build your own LINQ provider written by the mind behind LINQ to SQL
-- [ReLinq][relinq] - Create full-featured LINQ providers. ReLinq is used by EF 7 and NHibernate
-- [L2ST4][L2ST4] – T4 based code generation to replace the default code generated from the DBML file with LINQ to SQL
-
-[IQueryableToolkit]: http://iqtoolkit.codeplex.com
-[relinq]: http://relinq.codeplex.com
-[L2ST4]: http://l2st4.codeplex.com
+- [LINQ IQueryable Toolkit](http://iqtoolkit.codeplex.com) - Build your own LINQ provider written by the mind behind LINQ to SQL
+- [ReLinq](http://relinq.codeplex.com) - Create full-featured LINQ providers. ReLinq is used by EF 7 and NHibernate
+- [L2ST4](http://l2st4.codeplex.com) – T4 based code generation to replace the default code generated from the DBML file with LINQ to SQL
 
 ## Tools
 
-- [LINQPad][LINQPad] - An awesome tool to test and prototype LINQ queries. 
-- [LINQ to Entity query visualizer][Visu] - View Native SQL of LINQ to entities ObjectQuery in Visual Studio 
-- [Linqer][Linqer] - Convert SQL query to LINQ
-
-[LINQPad]: http://www.linqpad.net
-[Linqer]: http://sqltolinq.com
-[Visu]: https://visualstudiogallery.msdn.microsoft.com/99468ece-689b-481c-868c-19e00e0a4e69/
+- [LINQPad](http://www.linqpad.net) - An awesome tool to test and prototype LINQ queries. 
+- [LINQ to Entity query visualizer](https://visualstudiogallery.msdn.microsoft.com/99468ece-689b-481c-868c-19e00e0a4e69) - View Native SQL of LINQ to entities ObjectQuery in Visual Studio 
+- [Linqer](http://sqltolinq.com) - Convert SQL query to LINQ
 
 ## Samples
 
-- [101 LINQ Samples][101Samples] - Sample covering all LINQ functionality and demonstrating LINQ with SQL, DataSets, and XML
-- [LINQ - Sample Queries][SampleQueries] - This project contains about 101 samples using LINQ
-
-[101Samples]: https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b
-[SampleQueries]: https://code.msdn.microsoft.com/LINQ-Sample-Queries-13a42a54
+- [101 LINQ Samples](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b) - Sample covering all LINQ functionality and demonstrating LINQ with SQL, DataSets, and XML
+- [LINQ - Sample Queries](https://code.msdn.microsoft.com/LINQ-Sample-Queries-13a42a54) - This project contains about 101 samples using LINQ
 
 ## Readings
 
 - [Why LINQ beats SQL](https://www.linqpad.net/WhyLINQBeatsSQL.aspx)
 - [SQL queries in LINQ](http://www.codeducky.org/sql-queries-in-linq/)
-
 
 ## Implementations
 
@@ -107,6 +88,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [hxLINQ](https://github.com/andyli/hxLINQ) - An implementation of LINQ in Haxe (by @andyli)
 
 ---
+
+## Lists
 
 You may want to look to [awesome-dotnet](https://github.com/quozd/awesome-dotnet) by @Quozd and [awesome-dotnet](https://github.com/Valien/awesome-dotnet) by @Valien. Also [.NET libraries that make your life easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier) by @tallesl deserves a mention.
 
