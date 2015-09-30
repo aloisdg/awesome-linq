@@ -63,7 +63,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Why LINQ beats SQL](https://www.linqpad.net/WhyLINQBeatsSQL.aspx)
 - [SQL queries in LINQ](http://www.codeducky.org/sql-queries-in-linq)
-- [The 6 best practices for writing LINQ extension methods](http://firstclassthoughts.co.uk/Articles/Design/LINQExtensionMethodsBestPractices.html) by @kbilsted
+- [The 6 best practices for writing LINQ extension methods](http://firstclassthoughts.co.uk/Articles/Design/LINQExtensionMethodsBestPractices.html) (by @kbilsted)
 
 ## Implementations
 
