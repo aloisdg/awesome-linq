@@ -65,6 +65,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [SQL queries in LINQ](http://www.codeducky.org/sql-queries-in-linq)
 - [The 6 best practices for writing LINQ extension methods](http://firstclassthoughts.co.uk/Articles/Design/LINQExtensionMethodsBestPractices.html) (by @kbilsted)
 
+## Tutorials
+
+- [LINQ for Beginners](http://www.exceptionnotfound.net/linq-for-beginners/) - Let's see some examples, and explore what LINQ does for us (by @exceptionnotfound)
+
 ## Implementations
 
 - [CLinq](https://linqextensions.codeplex.com/) - LINQ support for the C++/CLI language
