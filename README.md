@@ -64,10 +64,15 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Why LINQ beats SQL](https://www.linqpad.net/WhyLINQBeatsSQL.aspx)
 - [SQL queries in LINQ](http://www.codeducky.org/sql-queries-in-linq)
 - [The 6 best practices for writing LINQ extension methods](http://firstclassthoughts.co.uk/Articles/Design/LINQExtensionMethodsBestPractices.html) (by @kbilsted)
+- [10 LINQ Myths](http://www.albahari.com/nutshell/10linqmyths.aspx) - Ten root causes of the most common misunderstandings
 
 ## Tutorials
 
 - [LINQ for Beginners](http://www.exceptionnotfound.net/linq-for-beginners/) - Let's see some examples, and explore what LINQ does for us (by @exceptionnotfound)
+
+## Exercices
+
+- [LINQ Quiz](http://www.albahari.com/nutshell/linqquiz.aspx) - Take the following short quiz and test your knowledge of LINQ!
 
 ## Implementations
 
