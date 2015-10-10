@@ -69,6 +69,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Tutorials
 
 - [LINQ for Beginners](http://www.exceptionnotfound.net/linq-for-beginners/) - Let's see some examples, and explore what LINQ does for us (by @exceptionnotfound)
+- [LINQ: Test-Driven Learning](https://github.com/MartinChavez/LINQ) - Help the user further study LINQ with a test-driven approach (by @MartinChavez)
 
 ## Exercices
 
