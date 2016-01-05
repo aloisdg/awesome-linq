@@ -41,7 +41,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ### Databases
 
-- [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET by @ravendb
+- [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET (by @ravendb)
 
 ### Miscs
 
