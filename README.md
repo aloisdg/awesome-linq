@@ -37,7 +37,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [LINQ Extensions](https://github.com/TommasoScalici/LINQExtensions) - LINQ extensions for .NET is a collection of useful extensions methods that extends LINQ's capability. There are methods for combinatorics, mathematical sequences and others Array/IEnumerable extensions. (by @TommasoScalici)
 - [LINQ Extensions Library](https://linqlib.codeplex.com) - Statistical analysis, sequence generation and manipulation, pattern detection and more
 - [Mono.Linq.Expressions](https://github.com/jbevain/mono.linq.expressions) - Complement for System.Linq.Expressions (by @jbevain)
-- [MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects  (by @morelinq)
+- [MoreLINQ](https://morelinq.github.io/) - Extensions to LINQ to Objects  (by @morelinq)
 
 ### Databases
 
