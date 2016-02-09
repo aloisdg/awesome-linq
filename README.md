@@ -48,7 +48,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [L2ST4](http://l2st4.codeplex.com) – T4 based code generation to replace the default code generated from the DBML file with LINQ to SQL
 - [LINQ IQueryable Toolkit](http://iqtoolkit.codeplex.com) - Build your own LINQ provider written by the mind behind LINQ to SQL
 - [ReLinq](http://relinq.codeplex.com) - Create full-featured LINQ providers. ReLinq is used by EF 7 and NHibernate
-
+- [LINQBridge](https://bitbucket.org/raboof/linqbridge) - Complete re-implementation of LINQ to Objects for projects targeting Microsoft .NET Framework 2.0
+ 
 ## Tools
 
 - [LINQPad](http://www.linqpad.net) - An awesome tool to test and prototype LINQ queries.
