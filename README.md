@@ -27,6 +27,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [LINQ to JSON](http://james.newtonking.com/json/help/html/LINQtoJSON.htm) - Part of the lib Newtonsoft.Json.NET (by @JamesNK)
 - [LINQ to SharePoint](http://linqtosharepoint.codeplex.com) - Query SharePoint lists using familiar LINQ syntax
 - [LINQ to Twitter](https://github.com/JoeMayo/LinqToTwitter) - LINQ Provider for the Twitter API (by @JoeMayo)
+- [LINQ to Wiki](https://github.com/svick/LINQ-to-Wiki) - .Net library to access MediaWiki API (by @svick)
 - [LINQ to XSD](http://linqtoxsd.codeplex.com) - LINQ to XSD enhances the existing LINQ to XML technology
 
 ### Extensions
