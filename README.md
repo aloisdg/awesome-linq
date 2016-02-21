@@ -18,13 +18,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ### Queries
 
-- [LINQ2DB](https://github.com/linq2db/linq2db) - Linq to database provider (by @linq2db)
-- [LINQ2REST](https://linq2rest.codeplex.com) - Parses OData system query parameters to create a LINQ query
 - [LINQ to Bing](https://linqtobing.codeplex.com) - LINQ provider for Bing search API engine
 - [LINQ to CSV](https://github.com/mperdeck/LINQtoCSV) - Popular, easy to use library to read and write CSV files (by @mperdeck)
+- [LINQ to DB](https://github.com/linq2db/linq2db) - Linq to database provider (by @linq2db)
 - [LINQ to Excel](https://github.com/paulyoder/LinqToExcel) - Retrieve data from spreadsheets by using LINQ (by @paulyoder)
 - [LINQ to Google](http://www.codeplex.com/glinq) - Query Google's Data Sources using a strongly typed syntax
 - [LINQ to JSON](http://james.newtonking.com/json/help/html/LINQtoJSON.htm) - Part of the lib Newtonsoft.Json.NET (by @JamesNK)
+- [LINQ to REST](https://linq2rest.codeplex.com) - Parses OData system query parameters to create a LINQ query
 - [LINQ to SharePoint](http://linqtosharepoint.codeplex.com) - Query SharePoint lists using familiar LINQ syntax
 - [LINQ to Twitter](https://github.com/JoeMayo/LinqToTwitter) - LINQ Provider for the Twitter API (by @JoeMayo)
 - [LINQ to Wiki](https://github.com/svick/LINQ-to-Wiki) - .Net library to access MediaWiki API (by @svick)
