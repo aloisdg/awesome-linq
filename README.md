@@ -101,6 +101,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Lists
 
-You may want to look to [awesome-dotnet](https://github.com/quozd/awesome-dotnet) by @Quozd and [awesome-dotnet](https://github.com/Valien/awesome-dotnet) by @Valien. Also [.NET libraries that make your life easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier) by @tallesl deserves a mention.
+You may want to look to [awesome-dotnet](https://github.com/quozd/awesome-dotnet) by @Quozd, [awesome-dotnet](https://github.com/Valien/awesome-dotnet) by @Valien or [awesome-test-automation (C# section)](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md) by @atinfo. Also [.NET libraries that make your life easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier) by @tallesl deserves a mention.
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list, the [awesome](https://github.com/sindresorhus/awesome) list or if you want [more lists](https://github.com/jnv/lists).
