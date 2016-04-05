@@ -90,6 +90,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [LinqToObjectiveC](https://github.com/ColinEberhardt/LinqToObjectiveC) - Brings a Linq-style fluent query API to Objective-C (by @ColinEberhardt)
 - [linq](https://github.com/fusonic/linq) - PHP implementation of LINQ 2 Objects (by @fusonic)
 - [linq](https://github.com/zx48/linq) - LINQ support for Go (by @zx48)
+- [linqts](https://github.com/kutyel/linq.ts) - LINQ for TypeScript (by @kutyel)
 - [linq.js](https://github.com/mihaifm/linq) - LINQ for JavaScript library packaged for node.js (by @mihaifm)
 - [linq4j](https://github.com/julianhyde/linq4j) - A port of LINQ (Language-Integrated Query) to Java (by @julianhyde)
 - [node-linq](https://github.com/contra/node-linq) - LINQ for node (by @contra)
