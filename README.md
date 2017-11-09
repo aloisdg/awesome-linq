@@ -29,6 +29,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [LINQ to Twitter](https://github.com/JoeMayo/LinqToTwitter) - LINQ Provider for the Twitter API (by @JoeMayo)
 - [LINQ to Wiki](https://github.com/svick/LINQ-to-Wiki) - .Net library to access MediaWiki API (by @svick)
 - [LINQ to XSD](http://linqtoxsd.codeplex.com) - LINQ to XSD enhances the existing LINQ to XML technology
+- [LINQ to ElasticSearch](https://github.com/ElasticLINQ/ElasticLINQ) - Uses LINQ to query Elasticsearch and convert results into .NET objects
 
 ### Extensions
 
@@ -48,9 +49,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [L2ST4](http://l2st4.codeplex.com) – T4 based code generation to replace the default code generated from the DBML file with LINQ to SQL
 - [LINQ IQueryable Toolkit](http://iqtoolkit.codeplex.com) - Build your own LINQ provider written by the mind behind LINQ to SQL
-- [ReLinq](http://relinq.codeplex.com) - Create full-featured LINQ providers. ReLinq is used by EF 7 and NHibernate
+- [ReLinq](https://github.com/re-motion/Relinq) - Create full-featured LINQ providers. ReLinq is used by EF 7 and NHibernate
 - [LINQBridge](https://bitbucket.org/raboof/linqbridge) - Complete re-implementation of LINQ to Objects for projects targeting Microsoft .NET Framework 2.0
- 
+- [roslyn-linq-rewrite](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch
+
 ## Tools
 
 - [LINQPad](http://www.linqpad.net) - An awesome tool to test and prototype LINQ queries.
