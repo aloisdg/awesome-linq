@@ -39,6 +39,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [LINQ Extensions Library](https://linqlib.codeplex.com) - Statistical analysis, sequence generation and manipulation, pattern detection and more
 - [Mono.Linq.Expressions](https://github.com/jbevain/mono.linq.expressions) - Complement for System.Linq.Expressions (by @jbevain)
 - [MoreLINQ](https://morelinq.github.io/) - Extensions to LINQ to Objects  (by @morelinq)
+- [Linq.Extras](https://github.com/thomaslevesque/Linq.Extras) - Extensions to LINQ to Objects, and utilities to manipulate lists and comparers (by @thomaslevesque)
 
 ### Databases
 
