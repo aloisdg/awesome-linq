@@ -54,6 +54,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
  
 ## Tools
 
+- [Another LINQ Tool](https://marketplace.visualstudio.com/items?itemName=N-Tsoulos.another-linq-tool) - Free C# query and scripting extension for VS Code with project DLL references, reusable profiles, EF Core DbContext support, autocomplete, and debugging.
 - [LINQPad](http://www.linqpad.net) - An awesome tool to test and prototype LINQ queries.
 - [Linqer](http://sqltolinq.com) - Convert SQL query to LINQ
 - [LINQ to Entity query visualizer](https://visualstudiogallery.msdn.microsoft.com/99468ece-689b-481c-868c-19e00e0a4e69) - View Native SQL of LINQ to entities ObjectQuery in Visual Studio 
