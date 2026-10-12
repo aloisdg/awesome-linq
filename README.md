@@ -40,6 +40,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Mono.Linq.Expressions](https://github.com/jbevain/mono.linq.expressions) - Complement for System.Linq.Expressions (by @jbevain)
 - [MoreLINQ](https://morelinq.github.io/) - Extensions to LINQ to Objects  (by @morelinq)
 - [Linq.Extras](https://github.com/thomaslevesque/Linq.Extras) - Extensions to LINQ to Objects, and utilities to manipulate lists and comparers (by @thomaslevesque)
+- [Linq.Expression.Optimizer](https://thorium.github.io/Linq.Expression.Optimizer/) - Expression optimizer for SQL translated LINQ queries
 
 ### Databases
 
